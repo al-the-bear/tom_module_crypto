@@ -1,0 +1,8 @@
+# Tom Repository Configuration
+# This file identifies the repository for git traversal commands
+
+repository_id: CRPT
+name: crypto
+description: >-
+  Cryptographic utilities (JWT, RSA, password hashing) and general tools library.
+github: al-the-bear/tom_module_crypto
